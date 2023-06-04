@@ -7,3 +7,6 @@ Tugas kalian disini adalah:
 3. Coverage minimal 70%
 
 Good luck!
+
+Note:
+- Tidak bisa melakukan deployment dikarenakan ada kendala "unverified github acoount" ketika menyambungkan akun github ke railway (mengganti railway dengan netlify)
